@@ -21,8 +21,7 @@ steps:
 
 1.  in a glass or bowl pour \~1/2 a cup of apple cider vinegar and stir
     in salt and sugar to combine. add either one spoonful of harissa, 1
-    tbsp of sumac or one spoonful of
-    sriracha.[ ]{.Apple-converted-space}
+    tbsp of sumac or one spoonful of sriracha.
 2.  place the red onions into the glass/bowl and fill with enough water
     to submerge the onions. using luke warm water helps to dissolve and
     spread the vinegar/other ingredients across the onions.

@@ -1,4 +1,4 @@
-tahini wheat noodles with veg[ ]{.Apple-converted-space}
+tahini wheat noodles with veg
 
 \
 
@@ -15,8 +15,7 @@ is a delish pad-thai-ish nutty sauce.
 
 ingredients:
 
-[ ]{.Apple-tab-span}[⁃]{.s1}[ ]{.Apple-tab-span}wheat noodle
-
+-   wheat noodle
 -   harissa 60g
 -   red onion 2 thinly sliced
 -   sweet potatoes 1-2 cubed
@@ -29,7 +28,7 @@ ingredients:
 
 \
 
-For sauce:[ ]{.Apple-converted-space}
+For sauce:
 
 -   tahnini 60g
 -   mirin 1.5 tbsp
