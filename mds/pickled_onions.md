@@ -9,7 +9,7 @@ ingredients:
 -   apple cider vinegar
 -   1 tbsp salt
 -   1.5 tbsp sugar
--   one of: harissa, sumac or sriracha[ ]{.Apple-converted-space}
+-   one of: harissa, sumac or sriracha
 -   1-2 red onion thinly sliced (optional: thinly sliced red chili or
     carrots)
 

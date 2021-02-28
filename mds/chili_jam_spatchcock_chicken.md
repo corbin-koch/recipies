@@ -26,7 +26,7 @@ steps:
 3.  oil the whole chicken such that it's coated, but not lathered \[1\].
     Sprinkle with generous amounts of salt, pepper and aleppo chili.
     Place in the oven on middle rack
-4.  combine and mix the chili-jam and harissa[ ]{.Apple-converted-space}
+4.  combine and mix the chili-jam and harissa
 5.  after the chicken has cooked for \~35 minutes, pull it out of the
     oven and apply the chili-jam mixture across the whole chicken then
     return to the oven for another 7-10 minutes allowing it to bake/set
