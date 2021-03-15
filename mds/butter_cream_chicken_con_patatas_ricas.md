@@ -10,6 +10,8 @@ putting it in a jar overnight to solidify. i must say, it works decently
 well! the only caveat is that it requires some planning as you need
 enough time to let the butter solidify prior to use.
 
+edit: i have a blender now
+
 \
 
 with regards to this recipe, i really like how all aspects blend
